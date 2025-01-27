@@ -5,4 +5,4 @@ Controls: A and S move the character, W jump, Left Click to shoot bubbles, and m
 
 Credits:
 Guilherme Henrique Gonsalves
-VInícius Macuco Leite Carvalhaes
+Vinícius Macuco Leite Carvalhaes
