@@ -4,5 +4,5 @@ In this game youy follow an astronaut stranded in a forsaken planet, and the ins
 Controls: A and S move the character, W jump, Left Click to shoot bubbles, and move your mouse to aim
 
 Credits:
-Guilherme Henrique Gonsalves
+Guilherme Henrique Gonsalves and
 Vinícius Macuco Leite Carvalhaes
